@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@gabriel-design-system/docs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "dev": "storybook dev -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
     "build-storybook": "build-storybook -s public"
-  }, 
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
@@ -29,10 +29,10 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gabriel-design-system/eslint-config": "*",
+    "@gabriel-design-system/react": "*",
+    "@gabriel-design-system/tokens": "*",
+    "@gabriel-design-system/ts-config": "*",
     "@storybook/addon-a11y": "^7.3.2",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
