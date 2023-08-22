@@ -28,6 +28,9 @@ const config = {
   docs: {
     autodocs: "tag",
   },
+  core: {
+    "builder" : "@storybook/builder-vite"
+  },
   viteFinal : (config,{ configType}) => {
     if(configType === "PRODUCTION") {
       config.base = '/Design-System'
