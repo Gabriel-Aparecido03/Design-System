@@ -1,4 +1,10 @@
 {
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
   "extends":"@gabriel-design-system/ts-config/react.json",
   "include": ["src"]
 }

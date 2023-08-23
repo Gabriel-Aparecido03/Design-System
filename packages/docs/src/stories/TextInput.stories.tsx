@@ -26,6 +26,13 @@ export const Primary: StoryObj<TextInputProps> = {
   },
 }
 
+export const WithPrefix: StoryObj<TextInputProps> = {
+  args: {
+    prefix : 'lorem lorem',
+    placeholder : 'lorem lorem'
+  },
+}
+
 export const Disabled: StoryObj<TextInputProps> = {
   args: {
     disabled: true,
