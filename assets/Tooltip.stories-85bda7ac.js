@@ -1,0 +1,2 @@
+import{T as s}from"./index-4f688556.js";import"./index-902e4630.js";import"./_commonjsHelpers-725317a4.js";import"./index-883097aa.js";import"./jsx-runtime-0741ab7f.js";const n={title:"Display /Tooltip",component:s,args:{content:"lorem"}},o={};var r,t,e;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:"{}",...(e=(t=o.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const l=["Primary"];export{o as Primary,l as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tooltip.stories-85bda7ac.js.map
